@@ -1,0 +1,4 @@
+name: client-tests-workflow
+
+on:
+  pull_request
